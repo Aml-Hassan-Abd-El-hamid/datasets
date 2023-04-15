@@ -4,7 +4,7 @@ I built this repo to store my dataset, I first used to keep my dataset on Kaggle
 
 Here's the datasets available on that repo and some info on them.
 
-Cat Dataset:
+## Cat Dataset:
 
 It contains 44 different cat breeds, the smallest class contains only 100 images and the largest class contains about 400 images.
 
