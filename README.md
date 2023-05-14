@@ -6,9 +6,10 @@ Here's the datasets available on that repo and some info on them.
 
 ## Cat Dataset 🐱
 
-It contains 44 different cat breeds, the smallest class contains only 100 images and the largest class contains about 400 images.
+It contains 42 different cat breeds, the smallest class contains only 100 images and the largest class contains about 400 images.
 
-I used this dataset in building my cat breed classifier website, I used 3 datasets to construct this dataset and Google images, and I used all the classes from the Gano Cat Breed Image Collection except for the "Tuxedo" which isn't technically a breed, that was 14 classes. I used the Scottish fold class from the Cat Breed dataset and the rest of the 29 classes came from the Cat Breeds Dataset (Cleared), those 29 classes contained a lot of bad images - misclassified and low quality - and I cleaned them as much as I could manually, also I collected more data for the Selkirk Rex, Korat, and Chartreux classes from Google images to make them at least 100 images.
+I used this dataset in building my cat breed classifier website, I used 3 datasets to construct this dataset and Google images, and I used all the classes from the Gano Cat Breed Image Collection except for the "Tuxedo" which isn't technically a breed, that was 14 classes. I used the Scottish fold class from the Cat Breed dataset and the rest of the 27 classes came from the Cat Breeds Dataset (Cleared), those 29 classes contained a lot of bad images - misclassified and low quality - and I cleaned them as much as I could manually, also I collected more data for the Selkirk Rex, Korat, and Chartreux classes from Google images to make them at least 100 images.
+After that I split the dataset into train and test, the test folders contains about 25% of the original dataset, and the train folders contain about 75% of the dataset
 
 <b>Sources</b>:
 
@@ -50,7 +51,6 @@ Ocicat
 Oriental Short Hair
 Oriental Tabby
 Persian
-Pixiebob
 Ragamuffin
 Ragdoll
 Russian Blue
@@ -63,5 +63,4 @@ Sphynx
 Tonkinese
 Toyger tiger cat
 Turkish Angora
-Turkish Van
 ```
